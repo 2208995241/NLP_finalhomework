@@ -1,5 +1,4 @@
 # NLP_finalhomework
 2271326_金渤蛟_NLP最终报告
-实验二中代码主要更改在model文件和run等文件中添加调用tinybert模型，由于tinybert文件过大，将其放在网盘中
-链接：https://pan.baidu.com/s/1zAKPRbhSAtJ5VSIUygHF2A?pwd=31t6 
-提取码：31t6
+实验一进行了base_bert和distil_Bert模型对于文本情感分类任务的对比实验，代码为自己手写
+实验二是针对竞赛数据集https://competitions.codalab.org/competitions/17094#learn_the_details 关于肝脏癌变的医学类图像分割实验，主要使用了Unet,segNet两个个模型并且对测试集进行了预测，详见实验报告，训练好的模型与代码都在压缩包中
