@@ -1,4 +1,5 @@
 # NLP_finalhomework
 2271326_金渤蛟_NLP最终报告
-实验一进行了base_bert和distil_Bert模型对于文本情感分类任务的对比实验，代码为自己手写
-实验二是针对竞赛数据集https://competitions.codalab.org/competitions/17094#learn_the_details 关于肝脏癌变的医学类图像分割实验，主要使用了Unet,segNet两个个模型并且对测试集进行了预测，详见实验报告，训练好的模型与代码都在压缩包中
+实验一进行了base_bert和distil_Bert模型对于文本情感分类任务的对比实验。
+实验二是针对竞赛数据集https://competitions.codalab.org/competitions/17094#learn_the_details 关于肝脏癌变的医学类图像分割实验，主要使用了Unet,segNet两个网络模型并且对测试集进行了预测，详见实验报告，图像分割的代码在压缩包中
+由于模型和预测结果图片文件过大，已经文件上传到百度网盘
